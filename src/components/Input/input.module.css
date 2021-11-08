@@ -1,0 +1,10 @@
+.todo-input {
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-bottom: 1px solid #e5e5e5;
+  font-size: 24px;
+  font-weight: 300;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
